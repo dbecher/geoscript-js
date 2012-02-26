@@ -5,5 +5,6 @@
     "dependencies": [],
     "contributors": [],
     "jars": "jars",
-    "main": "lib/geoscript"
+    "main": "lib/geoscript",
+    "version": "0.11.0"
 }
